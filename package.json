@@ -1,0 +1,27 @@
+{
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node imagemin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Li2018/imagemin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Li2018/imagemin/issues"
+  },
+  "homepage": "https://github.com/Alex-Li2018/imagemin#readme",
+  "dependencies": {
+    "imagemin": "^7.0.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "imagemin-webp": "^5.1.0"
+  }
+}
